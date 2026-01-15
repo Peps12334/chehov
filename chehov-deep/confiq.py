@@ -1,0 +1,2 @@
+AI_TOKEN = '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'
+BOT_TOKEN = '7727662348:AAGJrAMu_Q7DihtJjNmnIoLpLSzzLdQkVsQ'
